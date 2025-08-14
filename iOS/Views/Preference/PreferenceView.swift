@@ -95,8 +95,6 @@ struct PreferenceView: View {
                 .multilineTextAlignment(.leading)
                 .font(.footnote)
                 .padding(.top, 16)
-
-            InAppPurchaseView()
         }
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {

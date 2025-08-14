@@ -19,7 +19,6 @@ struct HomeView: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 24) {
-                HomeBannerView()
                 HomeCardView()
                 HomeCasesView()
                 Spacer()

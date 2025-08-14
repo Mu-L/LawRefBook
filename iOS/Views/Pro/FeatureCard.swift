@@ -15,7 +15,6 @@ struct ProItem: Identifiable {
 }
 
 var proItems = [
-    ProItem(icon: "captions.bubble", title: "无限次数使用 AI 法律助手"),
     ProItem(icon: "square.and.arrow.down.on.square", title: "地方性法规内容补充包"),
     ProItem(icon: "ellipsis", title: "还有一些正在开发中的功能")
 ]
